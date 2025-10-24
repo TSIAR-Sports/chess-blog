@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chess-blog/static/css/main.df80856e.css",
-    "main.js": "/chess-blog/static/js/main.e3eb678d.js",
+    "main.js": "/chess-blog/static/js/main.d0cefa92.js",
     "static/js/453.6ad1c17f.chunk.js": "/chess-blog/static/js/453.6ad1c17f.chunk.js",
     "index.html": "/chess-blog/index.html",
     "main.df80856e.css.map": "/chess-blog/static/css/main.df80856e.css.map",
-    "main.e3eb678d.js.map": "/chess-blog/static/js/main.e3eb678d.js.map",
+    "main.d0cefa92.js.map": "/chess-blog/static/js/main.d0cefa92.js.map",
     "453.6ad1c17f.chunk.js.map": "/chess-blog/static/js/453.6ad1c17f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df80856e.css",
-    "static/js/main.e3eb678d.js"
+    "static/js/main.d0cefa92.js"
   ]
 }
