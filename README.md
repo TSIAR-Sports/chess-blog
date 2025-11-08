@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###https://tsiar-sports.github.io/chess-blog/
+### https://tsiar-sports.github.io/chess-blog/
 
 ## Available Scripts
 
